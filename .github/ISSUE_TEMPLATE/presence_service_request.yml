@@ -1,4 +1,4 @@
-name: Service Request
+name: Presence Service Request
 description: Request a new presence to be added to the store
 labels: [service request]
 body:

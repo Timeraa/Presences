@@ -1,0 +1,32 @@
+name: Documentation Bug Report
+description: Create a report to help us improve the PreMiD Developer Documentation
+labels: [bug, docs]
+body:
+  - type: markdown
+    attributes:
+      value: Before submitting a new issue, ensure your bug hasn't already been reported. If it has, reply to the open issue instead.
+  - type: textarea
+    attributes:
+      label: Description
+  - type: textarea
+    validations:
+      required: true
+    attributes:
+      label: Steps to Reproduce
+      description: Provide clear and unambiguous steps on how to reproduce the bug
+      placeholder: |
+        1. Go to this link
+        2. Click on this
+        3. Observe that
+  - type: input
+    validations:
+      required: true
+    attributes:
+      label: Expected Behavior
+      description: Describe what you expected to happen
+  - type: input
+    validations:
+      required: true
+    attributes:
+      label: Actual Behavior
+      description: Describe what actually happened
