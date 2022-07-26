@@ -29,9 +29,9 @@ body:
     attributes:
       label: Prerequisites
       options:
-        - label: It is a paid service
-        - label: It displays NSFW content
-        - label: It is region restricted
+        - label: The service is a paid service
+        - label: The service displays NSFW content
+        - label: The service is region restricted
   - type: textarea
     validations:
       required: true
