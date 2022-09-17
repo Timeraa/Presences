@@ -35,7 +35,7 @@ presence
 ---
 
 ## Translator Tool
-Translate Presences by using our [Translator Tool](./TRANSLATOR.md)
+Translate Presences by using `npx pmd` (or your package manager of choice).
 ## Committing
 
 This repository strictly enforces the use of commitlint. For more information read the [Commit Convention guide](./.github/COMMIT_CONVENTION.md)
