@@ -93,3 +93,5 @@ When your Activity is ready:
 ## Committing
 
 This repository strictly enforces the use of commitlint. For more information read the [Commit Convention guide](./.github/COMMIT_CONVENTION.md)
+
+<!-- dry-run marker -->
