@@ -328,3 +328,5 @@ presence.on('UpdateData', async () => {
 
   presence.setActivity(presenceData)
 })
+
+// dry-run marker A: https://cdn.rcd.gg/PreMiD/websites/A/Anirose/assets/logo.png
