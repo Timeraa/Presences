@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.premid.app/metadata/1.16",
+  "apiVersion": 1,
+  "author": {
+    "id": "000000000000000000",
+    "name": "Timeraa"
+  },
+  "service": "Test Dry Run App",
+  "description": {
+    "en": "Throwaway activity used to dry-run the PR Assets workflow."
+  },
+  "url": "example.com",
+  "version": "1.0.0",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/Y/YouTube/assets/logo.png",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/Y/YouTube/assets/thumbnail.png",
+  "color": "#FF0000",
+  "category": "other",
+  "tags": ["test"]
+}
