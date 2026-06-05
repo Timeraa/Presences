@@ -195,3 +195,5 @@ presence.on('UpdateData', async () => {
     presence.setActivity(presenceData)
   else presence.clearActivity()
 })
+
+// dry-run marker B
